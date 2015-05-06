@@ -4,7 +4,11 @@
    <groupId>org.dspace</groupId>
    <artifactId>dspace-parent</artifactId>
    <packaging>pom</packaging>
+<<<<<<< HEAD
    <version>5.2-SNAPSHOT</version>
+=======
+   <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
    <name>DSpace Parent Project</name>
    <description>
    	DSpace open source software is a turnkey institutional repository application.
@@ -718,132 +722,216 @@
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-api</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
          </dependency>
          <dependency>
             <groupId>org.dspace.modules</groupId>
             <artifactId>additions</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
          </dependency>
 
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-sword</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>jar</type>
             <classifier>classes</classifier>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-sword</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>war</type>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-swordv2</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>jar</type>
             <classifier>classes</classifier>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-swordv2</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>war</type>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-jspui</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>jar</type>
             <classifier>classes</classifier>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-jspui</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>war</type>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-oai</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>jar</type>
             <classifier>classes</classifier>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-oai</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>war</type>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-lni</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>jar</type>
             <classifier>classes</classifier>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-lni-client</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-lni</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>war</type>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-xmlui</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>jar</type>
             <classifier>classes</classifier>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-xmlui</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>war</type>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-services</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
          </dependency>
          <dependency>
              <groupId>org.dspace</groupId>
              <artifactId>dspace-rdf</artifactId>
+<<<<<<< HEAD
              <version>5.2-SNAPSHOT</version>
+=======
+             <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
              <type>war</type>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-rest</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>jar</type>
              <classifier>classes</classifier>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-rest</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>war</type>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-solr</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>jar</type>
             <classifier>classes</classifier>
          </dependency>
          <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-solr</artifactId>
+<<<<<<< HEAD
             <version>5.2-SNAPSHOT</version>
+=======
+            <version>6.0-SNAPSHOT</version>
+>>>>>>> origin
             <type>war</type>
             <classifier>skinny</classifier>
          </dependency>
@@ -1574,7 +1662,11 @@
       <connection>scm:git:git@github.com:DSpace/DSpace.git</connection>
       <developerConnection>scm:git:git@github.com:DSpace/DSpace.git</developerConnection>
       <url>git@github.com:DSpace/DSpace.git</url>
+<<<<<<< HEAD
       <tag>dspace-5.1-SNAPSHOT</tag>
+=======
+      <tag>HEAD</tag>
+>>>>>>> origin
    </scm>
 
     <!--
